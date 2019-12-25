@@ -1,14 +1,14 @@
 'use strict';
 
 var firebaseConfig = {
-    apiKey: "AIzaSyAcmkUCU5n4z3A_eETt9OJKYuxZipST_dQ",
-    authDomain: "sessionnetworkprogramming.firebaseapp.com",
-    databaseURL: "https://sessionnetworkprogramming.firebaseio.com",
-    projectId: "sessionnetworkprogramming",
-    storageBucket: "sessionnetworkprogramming.appspot.com",
-    messagingSenderId: "172306048425",
-    appId: "1:172306048425:web:7afca505a79114bff110b8",
-    measurementId: "G-D4K4FE2JG0"
+    apiKey: "AIzaSyC6A9cw0Ze_f8UrSPgB1f7ITuZb_QlCYYY",
+    authDomain: "sessionsergey.firebaseapp.com",
+    databaseURL: "https://sessionsergey.firebaseio.com",
+    projectId: "sessionsergey",
+    storageBucket: "sessionsergey.appspot.com",
+    messagingSenderId: "576321818052",
+    appId: "1:576321818052:web:a01d7974fa90960b66a891",
+    measurementId: "G-W8CPEV4L3S"
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
